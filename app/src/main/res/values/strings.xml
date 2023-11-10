@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tempconv</string>
+    <string name="temperature_convert">Temperature Convert</string>
+    <string name="celcius">Celcius</string>
+    <string name="fahrenhiet">Fahrenhiet</string>
+    <string-array name="languages">
+        <item id="celbtn"> Celsius To Fahrenheit</item>
+        <item id="fahbtn">Fahrenheit To  Celsius</item>
+    </string-array>
+</resources>
